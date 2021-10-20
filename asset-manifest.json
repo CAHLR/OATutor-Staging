@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/OATutor-Staging/static/css/main.ebaf3992.chunk.css",
+    "main.js": "/OATutor-Staging/static/js/main.4fcc3fa6.chunk.js",
+    "main.js.map": "/OATutor-Staging/static/js/main.4fcc3fa6.chunk.js.map",
+    "runtime-main.js": "/OATutor-Staging/static/js/runtime-main.b1640796.js",
+    "runtime-main.js.map": "/OATutor-Staging/static/js/runtime-main.b1640796.js.map",
+    "static/css/2.ea2bc038.chunk.css": "/OATutor-Staging/static/css/2.ea2bc038.chunk.css",
+    "static/js/2.8b7353ef.chunk.js": "/OATutor-Staging/static/js/2.8b7353ef.chunk.js",
+    "static/js/2.8b7353ef.chunk.js.map": "/OATutor-Staging/static/js/2.8b7353ef.chunk.js.map",
+    "index.html": "/OATutor-Staging/index.html",
+    "static/css/2.ea2bc038.chunk.css.map": "/OATutor-Staging/static/css/2.ea2bc038.chunk.css.map",
+    "static/css/main.ebaf3992.chunk.css.map": "/OATutor-Staging/static/css/main.ebaf3992.chunk.css.map",
+    "static/js/2.8b7353ef.chunk.js.LICENSE.txt": "/OATutor-Staging/static/js/2.8b7353ef.chunk.js.LICENSE.txt",
+    "static/js/main.4fcc3fa6.chunk.js.LICENSE.txt": "/OATutor-Staging/static/js/main.4fcc3fa6.chunk.js.LICENSE.txt",
+    "static/media/mathquill.css": "/OATutor-Staging/static/media/Symbola.c2f28720.woff",
+    "static/media/figure1.gif": "/OATutor-Staging/static/media/figure1.feda3676.gif",
+    "static/media/figure16.gif": "/OATutor-Staging/static/media/figure16.26a8a29b.gif",
+    "static/media/figure2.gif": "/OATutor-Staging/static/media/figure2.ff6ac8b0.gif",
+    "static/media/figure3.gif": "/OATutor-Staging/static/media/figure3.e396d1ae.gif",
+    "static/media/figure32.gif": "/OATutor-Staging/static/media/figure32.5ba0d0b6.gif",
+    "static/media/figure4.gif": "/OATutor-Staging/static/media/figure4.f9fd6955.gif",
+    "static/media/figure8.gif": "/OATutor-Staging/static/media/figure8.fb8ab5a7.gif",
+    "static/media/stepfiles.txt": "/OATutor-Staging/static/media/stepfiles.f4ccafd3.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1640796.js",
+    "static/css/2.ea2bc038.chunk.css",
+    "static/js/2.8b7353ef.chunk.js",
+    "static/css/main.ebaf3992.chunk.css",
+    "static/js/main.4fcc3fa6.chunk.js"
+  ]
+}
