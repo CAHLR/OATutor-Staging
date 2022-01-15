@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/OATutor-Staging/static/css/main.4b0021f3.chunk.css",
-    "main.js": "/OATutor-Staging/static/js/main.5e5cf7bc.chunk.js",
-    "main.js.map": "/OATutor-Staging/static/js/main.5e5cf7bc.chunk.js.map",
+    "main.css": "/OATutor-Staging/static/css/main.7a54233b.chunk.css",
+    "main.js": "/OATutor-Staging/static/js/main.470e2ca6.chunk.js",
+    "main.js.map": "/OATutor-Staging/static/js/main.470e2ca6.chunk.js.map",
     "runtime-main.js": "/OATutor-Staging/static/js/runtime-main.b1640796.js",
     "runtime-main.js.map": "/OATutor-Staging/static/js/runtime-main.b1640796.js.map",
-    "static/css/2.c9421900.chunk.css": "/OATutor-Staging/static/css/2.c9421900.chunk.css",
-    "static/js/2.89a8bd49.chunk.js": "/OATutor-Staging/static/js/2.89a8bd49.chunk.js",
-    "static/js/2.89a8bd49.chunk.js.map": "/OATutor-Staging/static/js/2.89a8bd49.chunk.js.map",
+    "static/css/2.31fb448f.chunk.css": "/OATutor-Staging/static/css/2.31fb448f.chunk.css",
+    "static/js/2.4292ee2d.chunk.js": "/OATutor-Staging/static/js/2.4292ee2d.chunk.js",
+    "static/js/2.4292ee2d.chunk.js.map": "/OATutor-Staging/static/js/2.4292ee2d.chunk.js.map",
     "index.html": "/OATutor-Staging/index.html",
-    "static/css/2.c9421900.chunk.css.map": "/OATutor-Staging/static/css/2.c9421900.chunk.css.map",
-    "static/css/main.4b0021f3.chunk.css.map": "/OATutor-Staging/static/css/main.4b0021f3.chunk.css.map",
-    "static/js/2.89a8bd49.chunk.js.LICENSE.txt": "/OATutor-Staging/static/js/2.89a8bd49.chunk.js.LICENSE.txt",
-    "static/js/main.5e5cf7bc.chunk.js.LICENSE.txt": "/OATutor-Staging/static/js/main.5e5cf7bc.chunk.js.LICENSE.txt",
+    "static/css/2.31fb448f.chunk.css.map": "/OATutor-Staging/static/css/2.31fb448f.chunk.css.map",
+    "static/css/main.7a54233b.chunk.css.map": "/OATutor-Staging/static/css/main.7a54233b.chunk.css.map",
+    "static/js/2.4292ee2d.chunk.js.LICENSE.txt": "/OATutor-Staging/static/js/2.4292ee2d.chunk.js.LICENSE.txt",
+    "static/js/main.470e2ca6.chunk.js.LICENSE.txt": "/OATutor-Staging/static/js/main.470e2ca6.chunk.js.LICENSE.txt",
     "static/media/mathquill.css": "/OATutor-Staging/static/media/Symbola.c2f28720.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.b1640796.js",
-    "static/css/2.c9421900.chunk.css",
-    "static/js/2.89a8bd49.chunk.js",
-    "static/css/main.4b0021f3.chunk.css",
-    "static/js/main.5e5cf7bc.chunk.js"
+    "static/css/2.31fb448f.chunk.css",
+    "static/js/2.4292ee2d.chunk.js",
+    "static/css/main.7a54233b.chunk.css",
+    "static/js/main.470e2ca6.chunk.js"
   ]
 }
