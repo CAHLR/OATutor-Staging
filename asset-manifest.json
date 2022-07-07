@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/OATutor-Staging/static/css/main.4ca0a6da.chunk.css",
-    "main.js": "/OATutor-Staging/static/js/main.ae5aff32.chunk.js",
-    "main.js.map": "/OATutor-Staging/static/js/main.ae5aff32.chunk.js.map",
+    "main.js": "/OATutor-Staging/static/js/main.5b2d5cbe.chunk.js",
+    "main.js.map": "/OATutor-Staging/static/js/main.5b2d5cbe.chunk.js.map",
     "runtime-main.js": "/OATutor-Staging/static/js/runtime-main.b1640796.js",
     "runtime-main.js.map": "/OATutor-Staging/static/js/runtime-main.b1640796.js.map",
     "static/css/2.36234cb7.chunk.css": "/OATutor-Staging/static/css/2.36234cb7.chunk.css",
-    "static/js/2.61ab952a.chunk.js": "/OATutor-Staging/static/js/2.61ab952a.chunk.js",
-    "static/js/2.61ab952a.chunk.js.map": "/OATutor-Staging/static/js/2.61ab952a.chunk.js.map",
+    "static/js/2.4dc13873.chunk.js": "/OATutor-Staging/static/js/2.4dc13873.chunk.js",
+    "static/js/2.4dc13873.chunk.js.map": "/OATutor-Staging/static/js/2.4dc13873.chunk.js.map",
     "index.html": "/OATutor-Staging/index.html",
     "static/css/2.36234cb7.chunk.css.map": "/OATutor-Staging/static/css/2.36234cb7.chunk.css.map",
     "static/css/main.4ca0a6da.chunk.css.map": "/OATutor-Staging/static/css/main.4ca0a6da.chunk.css.map",
-    "static/js/2.61ab952a.chunk.js.LICENSE.txt": "/OATutor-Staging/static/js/2.61ab952a.chunk.js.LICENSE.txt",
-    "static/js/main.ae5aff32.chunk.js.LICENSE.txt": "/OATutor-Staging/static/js/main.ae5aff32.chunk.js.LICENSE.txt",
+    "static/js/2.4dc13873.chunk.js.LICENSE.txt": "/OATutor-Staging/static/js/2.4dc13873.chunk.js.LICENSE.txt",
+    "static/js/main.5b2d5cbe.chunk.js.LICENSE.txt": "/OATutor-Staging/static/js/main.5b2d5cbe.chunk.js.LICENSE.txt",
     "static/media/mathquill.css": "/OATutor-Staging/static/media/Symbola.c2f28720.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.b1640796.js",
     "static/css/2.36234cb7.chunk.css",
-    "static/js/2.61ab952a.chunk.js",
+    "static/js/2.4dc13873.chunk.js",
     "static/css/main.4ca0a6da.chunk.css",
-    "static/js/main.ae5aff32.chunk.js"
+    "static/js/main.5b2d5cbe.chunk.js"
   ]
 }
